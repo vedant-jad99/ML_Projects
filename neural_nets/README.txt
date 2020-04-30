@@ -1,0 +1,1 @@
+This is a simple, single layer feed forward neural network on the breast cancer dataset. I have built it from scratch, without using any machine learning packages like scikit-learn or tensorflow environmnet. It givves an accuracy of around 90-98%
